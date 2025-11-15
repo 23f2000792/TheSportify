@@ -19,7 +19,6 @@ export default function TeamMembersCarousel() {
     "Tech & Analytics",
     "Women's Wing",
     "Events & Operations",
-    "Design & Media",
     "PR & Outreach",
     "Community & Engagement",
   ];
